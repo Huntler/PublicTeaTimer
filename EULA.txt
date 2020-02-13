@@ -1,6 +1,58 @@
-## End-User License Agreement ("Agreement")
+## Privacy Policy
 
 Last updated: 13.02.2020
+
+# INTRODUCTION
+
+Jonas Leuchtenberger (“we” or “us” or “our”) respects the privacy of our users (“user” or “you”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use Tea Time ("app"), including any other media form, media channel, mobile website, or mobile application related or connected thereto (collectively, the “App”). Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site.
+
+We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Last Updated” date of this Privacy Policy. Any changes or modifications will be effective immediately upon posting the updated Privacy Policy on the Site, and you waive the right to receive specific notice of each such change or modification.
+
+You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the App after the date such revised Privacy Policy is posted.
+
+# COLLECTION OF YOUR INFORMATION
+
+We do not collect the following information:
+ + Personal Data
+ + Derivative Data
+ + Financial Data
+ + Data From Social Networks
+ 
+Mobile Device Data
+
+In some cases, the Google services do collect your device information, such as your mobile device ID, model, and manufacturer, and information about the location of your device, if you access the Site from a mobile device.
+
+Third-Party Data
+
+Information from third parties, such as personal information or network friends, if you connect your account to the third party and grant the App permission to access this information.
+
+# USE OF YOUR INFORMATION
+
+We do not use eventually collected personal data without the permission by you.
+
+DISCLOSURE OF YOUR INFORMATION
+
+We do not share information we have collected about you.
+
+# TRACKING TECHNOLOGIES
+
+We do not track you in any way.
+
+# THIRD-PARTY WEBSITES
+
+The App may contain links to third-party websites and applications of interest, including advertisements and external services, that are not affiliated with us. Once you have used these links to leave the App, any information you provide to these third parties is not covered by this Privacy Policy, and we cannot guarantee the safety and privacy of your information. Before visiting and providing any information to any third-party websites, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in your discretion, protect the privacy of your information. We are not responsible for the content or privacy and security practices and policies of any third parties, including other sites, services or applications that may be linked to or from the App.
+
+# POLICY FOR CHILDREN
+
+We do not knowingly solicit information from or market to children under the age of 13. If you become aware of any data we have collected from children under age 13, please contact us using the contact information provided below.
+
+# CALIFORNIA PRIVACY RIGHTS
+
+California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+
+If you are under 18 years of age, reside in California, and have a registered account with the App, you have the right to request removal of unwanted data that you publicly post on the App. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the App, but please be aware that the data may not be completely or comprehensively removed from our systems.
+
+## End-User License Agreement ("Agreement")
 
 Please read this End-User License Agreement ("Agreement") carefully before clicking the "I Agree" button, 
 downloading or using My Application Tea Timer ("Application").
@@ -55,3 +107,13 @@ change will be determined at my sole discretion.
 # Contact Information
 
 If you have any questions about this Agreement, please contact me.
+
+
+CONTACT US
+
+If you have questions or comments about this Privacy Policy, please contact us at:
+
+Jonas Leuchtenberger
+Feldstraße 158
+Würselen, 52146
+jonas.leuchtenberger@rwth-aachen.de
